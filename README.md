@@ -1,2 +1,2 @@
-# PaginaWeb_MVC_1
-Es mi primera pagina con una plantilla MVC (MiniFramework).
+Pagina_Web_PHP_MVC_POO_MYSQL
+Es mi primera pagina web con PHP_MVC_POO_MYSQL (MiniFramework).
